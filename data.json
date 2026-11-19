@@ -1,0 +1,579 @@
+{
+  "app": {
+    "name": "Protocolos para Relações Saudáveis",
+    "subtitle": "Escola Promotora de Saúde • SEDUC/MT",
+    "edition": "Material de referência — Edição 2024",
+    "description": "Uma experiência de consulta e aprendizagem sobre acolhimento, prevenção e tratativas de situações de assédio no ambiente educacional.",
+    "source": "Protocolos para Relações Saudáveis, SEDUC/MT, edição 2024. Fonte dos quadros: CSS (2024).",
+    "coverImage": "assets/capa-protocolos.png"
+  },
+  "presentation": [
+    {
+      "id": "apresentacao",
+      "title": "Apresentação",
+      "eyebrow": "Conheça o programa",
+      "content": [
+        "A Secretaria de Estado de Educação de Mato Grosso (SEDUC/MT) tem a finalidade de propor e executar políticas públicas voltadas à educação básica, assegurando ao estudante o desenvolvimento de suas capacidades e a construção de conhecimentos para a formação de valores humanos e cidadania.",
+        "O Programa Potencializando Relações Saudáveis na Educação é apresentado pela Secretaria Adjunta de Gestão de Pessoas (SAGP) e pela Superintendência de Desenvolvimento, Aplicação, Saúde e Segurança (SUDASS), por meio da Coordenadoria de Saúde e Segurança (CSS).",
+        "O programa é composto por quatro protocolos sobre relações saudáveis e busca garantir os direitos da comunidade escolar em situações de conflitos e assédios, promovendo melhorias no contexto laboral e pessoal.",
+        "Inserido no eixo Construindo Ambientes Saudáveis da Escola Promotora de Saúde, conforme a Portaria 288/2024/GS/SEDUC/MT, o programa busca promover espaços inclusivos, relações maduras e ambientes de trabalho saudáveis, reduzindo conflitos e situações de assédio."
+      ],
+      "sourcePages": "3"
+    },
+    {
+      "id": "assedio-moral",
+      "title": "O que é assédio moral?",
+      "eyebrow": "Conceito",
+      "content": [
+        "O documento define assédio moral como qualquer conduta abusiva ou violência psicológica praticada de forma prolongada contra uma pessoa no meio laboral, manifestada por comportamentos ou palavras repetidas que visam produzir danos progressivos e contínuos à dignidade ou à integridade psicológica.",
+        "A Lei estadual nº 11.882, de 1º de setembro de 2022, relaciona comportamentos como desqualificar reiteradamente a autoestima, a segurança ou a imagem de agente público; desrespeitar limitações decorrentes de doença; discriminar; atribuir funções incompatíveis; isolar; ridicularizar; subestimar competências; desprezar o trabalho; apropriar-se de ideias alheias; ou usar o cargo para induzir alguém a praticar ato ilegal.",
+        "O material também apresenta modalidades conforme a relação hierárquica: vertical-descendente, horizontal, ascendente e misto."
+      ],
+      "sourcePages": "3–4"
+    },
+    {
+      "id": "nao-e-assedio-moral",
+      "title": "O que não é assédio moral?",
+      "eyebrow": "Distinções importantes",
+      "content": [
+        "O documento esclarece que um conflito pessoal temporário ou uma discordância pontual na equipe não caracteriza, por si só, assédio moral, quando não existe ataque malicioso, sistemático e continuado contra uma pessoa.",
+        "Entre os exemplos apresentados de práticas que não são assédio moral estão: controle e organização do trabalho exercidos com civilidade; acompanhamento e cobrança de metas; cobrança do cumprimento de regulamentos; orientação sobre desempenho; recomendação de desenvolvimento de competências; aumento do volume de trabalho; uso de mecanismos tecnológicos de controle; delegação ou redistribuição de tarefas.",
+        "A distinção apresentada no material considera especialmente a ausência de intenção de ataque sistemático e continuado. A análise de situações concretas deve observar o contexto e as normas aplicáveis."
+      ],
+      "sourcePages": "4–5"
+    },
+    {
+      "id": "bullying",
+      "title": "O bullying como assédio moral",
+      "eyebrow": "Violência repetida",
+      "content": [
+        "O bullying é descrito como violência contínua, intencional e repetida, em que uma pessoa é perseguida, ridicularizada, exposta ou intimidada, inclusive por apelidos vexatórios e agressões relacionadas a características físicas, hábitos, sexualidade ou maneira de ser.",
+        "O documento afirma que o bullying pode ser considerado assédio moral. Os atos negativos podem envolver contato físico, palavras, gestos, disseminação de rumores e exclusão intencional.",
+        "O material destaca a repetição ao longo do tempo e o desequilíbrio de poder na relação interpessoal como características do bullying."
+      ],
+      "sourcePages": "4–5"
+    },
+    {
+      "id": "assedio-sexual",
+      "title": "O que é assédio sexual?",
+      "eyebrow": "Conceito e exemplos",
+      "content": [
+        "O assédio sexual é definido no documento como comportamento verbal, não verbal ou físico de caráter sexual que tenha o objetivo ou o efeito de atentar contra a dignidade de uma pessoa, especialmente quando cria ambiente intimidatório, hostil, degradante, humilhante ou ofensivo.",
+        "Diferentemente da definição de assédio moral apresentada no material, o assédio sexual no trabalho não precisa ocorrer durante um período prolongado: um único ato, pela sua gravidade, pode constituir assédio sexual.",
+        "Os exemplos citados incluem contato ou toque desnecessário, observações e comentários obscenos, piadas ou insinuações sexuais, mensagens ou e-mails com conteúdo sexual explícito ou sugestivo, convites ou coações para prática sexual e comentários depreciativos sobre gênero, aparência ou imagem."
+      ],
+      "sourcePages": "5"
+    },
+    {
+      "id": "nao-e-assedio-sexual",
+      "title": "O que não é assédio sexual?",
+      "eyebrow": "Limite do conteúdo-fonte",
+      "content": [
+        "O documento de referência não apresenta uma seção específica com exemplos intitulada “O que não é assédio sexual?”, nem estabelece uma lista de situações que possam ser automaticamente classificadas dessa forma.",
+        "Por fidelidade ao material oficial, este módulo não cria exemplos nem declara que determinada conduta está fora da definição. O texto-fonte orienta a observar se o comportamento verbal, não verbal ou físico tem caráter sexual e se objetiva ou produz violação da dignidade, inclusive pela criação de ambiente intimidatório, hostil, degradante, humilhante ou ofensivo.",
+        "A avaliação de uma situação concreta deve considerar o contexto e os procedimentos institucionais e legais aplicáveis. Esta tela sinaliza uma lacuna do documento, em vez de preencher essa lacuna com conteúdo não fornecido pela publicação."
+      ],
+      "sourcePages": "5 • observação editorial"
+    }
+  ],
+  "protocols": [
+    {
+      "id": "novo-servidor",
+      "number": "01",
+      "title": "Protocolo de entrada do novo servidor",
+      "subtitle": "Para potencializar as relações saudáveis na educação",
+      "sourcePages": "6",
+      "steps": [
+        {
+          "title": "Oficina de Apresentação das Políticas e Diretrizes Organizacionais",
+          "description": "Oficinas de boas-vindas para ambientar novos servidores e estagiários sobre as políticas e diretrizes educacionais.",
+          "how": [
+            "Ambientar os novos servidores e estagiários sobre missão, visão e valores, Manual para Relações Saudáveis (MARES), regimento interno, código de ética e regulamentos.",
+            "Apresentar os produtos da Gestão de Pessoas.",
+            "Encaminhar por e-mail ao servidor os conteúdos apresentados durante a oficina."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE/DRE",
+          "notes": [
+            "Organizar os conteúdos para os participantes.",
+            "Enviar convites aos servidores.",
+            "Realizar a oficina todo quinto dia útil, no período matutino.",
+            "Providenciar termo de ciência para assinatura do servidor que recebeu (o documento cita “Anexo x”).",
+            "No ambiente de trabalho, designar um servidor focal para auxiliar na integração das atividades.",
+            "Periodicidade: mensal."
+          ]
+        },
+        {
+          "title": "Acolhimento, integração e orientação inicial na unidade de lotação",
+          "description": "Apresentar o local de trabalho, a equipe e as atividades desenvolvidas.",
+          "how": [
+            "Recepcionar os novos servidores/estagiários.",
+            "Apresentar a equipe de trabalho.",
+            "Solicitar os acessos do servidor nos sistemas."
+          ],
+          "responsible": "Equipe Gestora / Chefia Imediata, pares",
+          "notes": [
+            "Realizar no primeiro dia de trabalho do servidor/estagiário."
+          ]
+        },
+        {
+          "title": "Introdução à equipe",
+          "description": "Inserir o servidor/estagiário nas atividades de trabalho e explicar o funcionamento interno do setor.",
+          "how": [
+            "Realizar reunião de alinhamento da equipe.",
+            "Explicar portfólio de produtos, rotinas, fluxos, responsabilidades, entregas, desdobramentos dos objetivos e ferramentas de trabalho."
+          ],
+          "responsible": "Equipe Gestora / Chefia Imediata e equipe",
+          "notes": [
+            "Após a atribuição."
+          ]
+        },
+        {
+          "title": "Ponto focal / Guardião",
+          "description": "Designar uma pessoa para auxiliar o novo membro da equipe, fortalecendo a segurança psicológica e o pertencimento.",
+          "how": [
+            "O gestor indica um ponto focal que conheça os produtos do setor.",
+            "O ponto focal orienta, auxilia, monitora e ensina as atividades que serão desenvolvidas.",
+            "Reforçar as atitudes desejadas contempladas no MARES."
+          ],
+          "responsible": "Membro da equipe",
+          "notes": [
+            "Após a atribuição, durante 30 dias."
+          ]
+        },
+        {
+          "title": "Feedback",
+          "description": "Fornecer retorno sobre os pontos desenvolvidos e aqueles que podem ser aprimorados.",
+          "how": [
+            "Realizar feedback por meio de reunião.",
+            "Considerar os pontos fortes do servidor/estagiário e reforçar suas qualidades."
+          ],
+          "responsible": "Chefia imediata e o guardião",
+          "notes": [
+            "Após 15 dias."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prevencao-assedio",
+      "number": "02",
+      "title": "Protocolo de prevenção ao assédio",
+      "subtitle": "Ações preventivas na comunidade escolar",
+      "sourcePages": "7",
+      "steps": [
+        {
+          "title": "Mapeamento e levantamento de indicadores/dados",
+          "description": "Mapear demandas da comunidade escolar e registrar informações relevantes para formar banco de dados da unidade escolar ou setor.",
+          "how": [
+            "Realizar o mapeamento conforme relatórios emitidos pela ouvidoria e pesquisas com a comunidade escolar.",
+            "Analisar os dados e elaborar oficinas formativas.",
+            "Monitorar e identificar se houve redução dos casos de denúncia.",
+            "Criar planilha própria com informações gerais sobre as circunstâncias em que ocorreu o assédio."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE e COGER/DRE",
+          "notes": [
+            "Periodicidade: trimestral."
+          ]
+        },
+        {
+          "title": "Oficinas formativas",
+          "description": "Promover oficinas no ambiente educacional sobre diferentes temáticas, para fomentar relações saudáveis e uma cultura de respeito, inclusão e igualdade.",
+          "how": [
+            "As oficinas podem ser solicitadas por e-mail à Coordenadoria de Gestão de Pessoas/DRE.",
+            "As Coordenadorias de Gestão de Pessoas/DRE podem promover oficinas nas unidades escolares conforme calendário de ações.",
+            "Realizar mapeamento de demanda por amostragem e desenvolver ações por workshops, oficinas e ações vivenciais.",
+            "Utilizar metodologia de inversão de papéis (role-playing).",
+            "Inserir relatório de acompanhamento no Classroom e nas planilhas da CSS."
+          ],
+          "responsible": "Equipe Psicossocial — COGER/COGPE",
+          "notes": [
+            "Periodicidade: trimestral."
+          ]
+        },
+        {
+          "title": "Articulação preventiva intersetorial",
+          "description": "Realizar ações orientativas intersetoriais para alinhar o funcionamento de cada rede de apoio e capacitar o atendimento dos fluxos das demandas de assédio.",
+          "how": [
+            "Articular com os serviços de saúde, utilizando o painel de referenciamento da rede de saúde. Se não for conhecido, verificar sua disponibilização junto às DREs.",
+            "Realizar oficinas e palestras preventivas.",
+            "Orientar sobre canais de denúncia, encaminhamento para a rede, referenciamento e contrarreferenciamento."
+          ],
+          "responsible": "Equipe Psicossocial — COGER/COGPE",
+          "notes": [
+            "Periodicidade: mensal."
+          ]
+        },
+        {
+          "title": "Campanhas (boletim informativo)",
+          "description": "Desenvolver campanhas interativas de sensibilização para fomentar relações saudáveis no ambiente educacional.",
+          "how": [
+            "A atividade pode utilizar podcasts, vídeos curtos, cards digitais, folders, cartilhas informativas, lives e outros meios."
+          ],
+          "responsible": "Equipes Psicossociais, CLST e alunos",
+          "notes": [
+            "Periodicidade: conforme calendário de campanhas nacionais."
+          ]
+        },
+        {
+          "title": "Protagonismo estudantil",
+          "description": "Realizar ações integrativas em conjunto com o grêmio estudantil.",
+          "how": [
+            "Realizar oficinas, teatros e atividades culturais que envolvam a temática.",
+            "Mapear as ocorrências escolares e observar como está o clima na escola."
+          ],
+          "responsible": "Equipe Psicossocial — COGER e COGPE, CLST, professor articulador",
+          "notes": [
+            "Periodicidade: uma vez ao mês."
+          ]
+        },
+        {
+          "title": "Família na escola",
+          "description": "Sensibilizar a família sobre a importância de sua participação na vida escolar dos filhos.",
+          "how": [
+            "Realizar trabalho de orientação e sensibilização com os pais por meio de encontros vivenciais."
+          ],
+          "responsible": "Equipe gestora, professores e Equipe Psicossocial",
+          "notes": [
+            "Periodicidade: semestral."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assediado-estudante",
+      "number": "03",
+      "title": "Protocolo de cuidados para o suposto assediado",
+      "subtitle": "Estudante",
+      "sourcePages": "8–9",
+      "steps": [
+        {
+          "title": "Recebimento da denúncia na unidade escolar",
+          "description": "Acolher o estudante e receber o relato com cuidado, sigilo e sem julgamentos.",
+          "how": [
+            "Acolher o estudante mantendo o sigilo, sem indução, questionamentos ou julgamentos; apenas colher o relato.",
+            "Evitar toque físico, mesmo que seja um abraço acolhedor, pois a pessoa já está vulnerável.",
+            "Acionar a equipe psicossocial ou a gestão escolar."
+          ],
+          "responsible": "Servidores da Educação",
+          "notes": [
+            "Acolher a demanda imediatamente após o recebimento/ciência do ocorrido."
+          ]
+        },
+        {
+          "title": "Acolhimento",
+          "description": "Oferecer ambiente seguro e suporte psicossocial ao estudante.",
+          "how": [
+            "Acolher o aluno em ambiente seguro, assegurando suporte psicossocial.",
+            "Dialogar com a família para orientações e acolhimento, observando a Lei nº 13.431/2017 quanto à escuta da criança ou adolescente vítima ou testemunha de violência.",
+            "Elaborar relatórios técnicos.",
+            "Ofertar acompanhamento e referenciamento para a Rede de Proteção Social, garantindo sigilo.",
+            "Articular e acompanhar o estudante e seus responsáveis para verificar os encaminhamentos.",
+            "Realizar ações de prevenção de violências e acolhimento contínuo."
+          ],
+          "responsible": "Equipe Psicossocial Pedagógica ou Gestão Escolar",
+          "notes": [
+            "Se a escola não possuir equipe psicossocial, a gestão escolar conduz o atendimento e os encaminhamentos cabíveis indicados no documento; requisitar o envolvido a ir até a DRE e evitar a revitimização."
+          ]
+        },
+        {
+          "title": "Formalização",
+          "description": "Formalizar a demanda e realizar os encaminhamentos indicados.",
+          "how": [
+            "Registrar a demanda em ATA.",
+            "Comunicar a família.",
+            "Comunicar o Conselho Tutelar.",
+            "Registrar Boletim de Ocorrência (B.O.).",
+            "Registrar denúncia na ouvidoria nos casos que envolvam servidores: https://ouvidoria.cge.mt.gov.br/falecidadao/"
+          ],
+          "responsible": "Equipe Psicossocial Pedagógica ou Gestão Escolar",
+          "notes": [
+            "Ressalva do documento: em casos de assédio realizado pelos responsáveis, não é necessário comunicar a família; o caso deve ser encaminhado diretamente ao Conselho Tutelar."
+          ]
+        },
+        {
+          "title": "Documentos necessários",
+          "description": "Separar e organizar os documentos que serão encaminhados à ouvidoria.",
+          "how": [
+            "Registro em formato de ATA ou relatório.",
+            "Materialidade, se houver: e-mail, fotos, prints, áudio ou vídeos.",
+            "Boletim de Ocorrência (B.O.).",
+            "Relatórios técnicos elaborados no acolhimento."
+          ],
+          "responsible": "Equipe Psicossocial Pedagógica ou Gestão Escolar",
+          "notes": []
+        },
+        {
+          "title": "Recebimento da demanda",
+          "description": "A ouvidoria recebe o registro e dá início à tramitação adequada.",
+          "how": [
+            "Registrar a demanda.",
+            "Abrir processo para averiguar a demanda.",
+            "Tramitar o processo para o setor adequado."
+          ],
+          "responsible": "Ouvidoria",
+          "notes": []
+        },
+        {
+          "title": "Encaminhamentos",
+          "description": "Encaminhar os autos e registros aos setores responsáveis, conforme o caso.",
+          "how": [
+            "Em processos que envolvem alunos e familiares, encaminhar o processo com todos os autos e registros, incluindo relatório de ambos os envolvidos, ao Núcleo de Mediação Escolar.",
+            "Conduzir a denúncia à Coordenadoria de Saúde e Segurança se o processo envolver servidor."
+          ],
+          "responsible": "Ouvidoria",
+          "notes": []
+        },
+        {
+          "title": "Recebimento da demanda pelo órgão central",
+          "description": "Analisar o processo e encaminhar para as áreas responsáveis pelo acompanhamento.",
+          "how": [
+            "Analisar o processo com todos os autos e registros e tramitar simultaneamente para a COGER e o psicossocial-DRE.",
+            "Acompanhar a tratativa da demanda."
+          ],
+          "responsible": "Núcleo de Mediação Escolar",
+          "notes": []
+        },
+        {
+          "title": "Encaminhamento da demanda",
+          "description": "Realizar acolhimento, alinhamento das equipes e encaminhamentos necessários.",
+          "how": [
+            "Realizar acolhimento e escuta qualificada com a vítima, caso a unidade escolar não tenha equipe psicossocial.",
+            "Realizar reuniões de alinhamento para analisar e tomar providências sobre as ações no processo.",
+            "Encaminhar à Rede de Proteção Social, se necessário.",
+            "Reunir nos autos os relatórios das ações.",
+            "Acompanhar e subsidiar as equipes que registraram a ocorrência; se necessário, propor ações interventivas de sensibilização sobre violência."
+          ],
+          "responsible": "Equipe Psicossocial — COGER/DRE",
+          "notes": [
+            "O documento ressalva que casos envolvendo apenas estudantes, ou estudante e pessoa externa à comunidade escolar, devem ser encaminhados ao NISE como denúncia pelo formulário: https://forms.gle/QQGkutbi3H4oTGor7"
+          ]
+        },
+        {
+          "title": "Finalização",
+          "description": "Acompanhar as medidas adotadas e registrar as intervenções realizadas.",
+          "how": [
+            "Acompanhar e verificar quais medidas foram tomadas e seus desdobramentos.",
+            "Tramitar o processo para a ouvidoria com as intervenções realizadas pela COGER."
+          ],
+          "responsible": "Mediação Escolar",
+          "notes": []
+        },
+        {
+          "title": "Encerramento",
+          "description": "Finalizar o registro da demanda na ouvidoria.",
+          "how": [
+            "Finalizar a demanda com o registro dos procedimentos adotados."
+          ],
+          "responsible": "Ouvidoria",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "assediado-servidor",
+      "number": "03.1",
+      "title": "Protocolo de cuidados para o suposto assediado",
+      "subtitle": "Servidor",
+      "sourcePages": "10",
+      "steps": [
+        {
+          "title": "Procedimento após receber a demanda",
+          "description": "A equipe psicossocial da Coordenadoria de Gestão de Pessoas recebe a demanda.",
+          "how": [
+            "Realizar o acolhimento da demanda."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE/DRE",
+          "notes": []
+        },
+        {
+          "title": "Acolhimento COGPE",
+          "description": "Acolher o servidor em ambiente seguro, sem julgamento ou investigação no momento do acolhimento.",
+          "how": [
+            "Agendar com o servidor presencialmente ou on-line.",
+            "Realizar acolhimento e escuta qualificada pela Equipe Psicossocial COGPE.",
+            "Ofertar acompanhamento e referenciamento para suporte emocional.",
+            "Manter o sigilo.",
+            "Registrar os acolhimentos conforme padrão estabelecido pela CSS.",
+            "Levantar a rede de apoio do suposto assediado (família, amigos e comunidade escolar).",
+            "Disponibilizar treino de gerenciamento de estresse e estresse pós-traumático."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE/DRE",
+          "notes": [
+            "Avaliar a situação de saúde e questões emocionais e psicológicas; se necessário, encaminhar à rede de atenção à saúde.",
+            "Oferecer suporte psicossocial."
+          ]
+        },
+        {
+          "title": "Oficinas formativas",
+          "description": "Realizar oficina formativa na comunidade escolar para promover relações saudáveis, respeito, igualdade e civilidade.",
+          "how": [
+            "Realizar ações por oficinas e vivências, utilizando metodologias de inversão de papéis (role-playing).",
+            "Inserir relatório no processo.",
+            "Informar no monitoramento mensal da CSS."
+          ],
+          "responsible": "Equipe Psicossocial — GOGER/COGPE",
+          "notes": [
+            "Tratar das políticas de assédio moral e sexual e do MARES (Manual para Relações Saudáveis)."
+          ]
+        },
+        {
+          "title": "Acompanhamentos e encaminhamentos",
+          "description": "Acompanhar a saúde e a segurança do servidor, oferecendo suporte e referenciamento quando necessário.",
+          "how": [
+            "Manter contato com o servidor para que possa ser referenciado às redes de serviço caso necessite de atendimento especializado."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE/DRE",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "assediador-servidor",
+      "number": "04",
+      "title": "Protocolo de tratativas para o suposto assediador",
+      "subtitle": "Servidor",
+      "sourcePages": "11",
+      "steps": [
+        {
+          "title": "Procedimento após receber a demanda",
+          "description": "A equipe psicossocial da Coordenadoria de Gestão de Pessoas recebe a demanda.",
+          "how": [
+            "Realizar o acolhimento da demanda."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE/DRE",
+          "notes": []
+        },
+        {
+          "title": "Acolhimento COGPE",
+          "description": "Acolher o servidor em ambiente seguro, deixando claro que o acolhimento não tem finalidade de julgar ou realizar investigação.",
+          "how": [
+            "Agendar com o servidor presencialmente ou on-line.",
+            "Realizar acolhimento e escuta qualificada pela Equipe Psicossocial COGPE.",
+            "Ofertar acompanhamento e referenciamento para suporte emocional.",
+            "Manter o sigilo.",
+            "Registrar os acolhimentos conforme padrão estabelecido pela CSS.",
+            "Disponibilizar treino de controle de estresse para o servidor."
+          ],
+          "responsible": "Equipe Psicossocial — COGPE/DRE",
+          "notes": [
+            "Avaliar a situação de saúde e as questões emocionais e psicológicas; se necessário, encaminhar à rede de atenção à saúde.",
+            "Oferecer suporte psicossocial e assistência jurídica, se houver necessidade."
+          ]
+        },
+        {
+          "title": "Oficinas formativas",
+          "description": "Realizar oficina formativa na comunidade escolar para promover relações saudáveis, respeito, igualdade e civilidade.",
+          "how": [
+            "Realizar ações por oficinas e vivências, utilizando metodologias de inversão de papéis (role-playing).",
+            "Inserir relatório no processo.",
+            "Informar no monitoramento mensal da CSS."
+          ],
+          "responsible": "Equipe GOGER/COGPE e psicossocial",
+          "notes": [
+            "Tratar das políticas de assédio moral e sexual, MARES, regimento interno, código de ética e regulamentos."
+          ]
+        },
+        {
+          "title": "Encaminhamentos",
+          "description": "Encaminhar os autos e relatórios para continuidade do processo.",
+          "how": [
+            "Enviar os autos para a Coordenadoria de Saúde e Segurança."
+          ],
+          "responsible": "Equipe Psicossocial/COGPE",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "assediador-estudante",
+      "number": "04.1",
+      "title": "Protocolo de tratativas para o suposto assediador",
+      "subtitle": "Estudante",
+      "sourcePages": "12",
+      "steps": [
+        {
+          "title": "Recebimento da denúncia na unidade escolar",
+          "description": "A escola toma ciência do fato e aciona os responsáveis e os setores previstos no fluxo.",
+          "how": [
+            "Realizar escuta ativa qualificada, sem questionamentos indutivos sobre posicionamento culpado/inocente e sem juízo de valores.",
+            "Realizar os registros em ATAs."
+          ],
+          "responsible": "Equipe Gestora",
+          "notes": [
+            "A escola aciona os responsáveis pelo aluno e notifica o Conselho Tutelar conforme a tipificação do caso; orienta a família sobre seus direitos e registra B.O. conforme a legislação.",
+            "A equipe psicossocial deve ser acionada em todos os casos: em assédio de aluno para aluno, acionar apenas a COGER; quando envolver alunos e servidor, acionar COGER e COGPE.",
+            "Em caso de ato infracional, registrar ficha FICAI (infração) e anexar o B.O., considerando o ECA."
+          ]
+        },
+        {
+          "title": "Acolhimento psicossocial",
+          "description": "Acompanhar o suposto assediador e a família do aluno assediado, realizando encaminhamentos conforme a necessidade.",
+          "how": [
+            "Realizar escuta especializada e elaborar relatório técnico profissional; a escuta deve ser individual com os envolvidos e incluir acolhimento dos familiares.",
+            "Realizar registros em ATAs.",
+            "Elaborar documentos necessários conforme cada caso.",
+            "Registrar Boletim de Ocorrência.",
+            "Preencher ficha FICAI de infração.",
+            "Encaminhar à Rede de Proteção Social, quando necessário.",
+            "Acompanhar o estudante para avaliar necessidade de intervenção adicional ou encaminhamentos.",
+            "Promover ações de educação e conscientização sobre a violência ocorrida.",
+            "Comunicar à equipe Psicossocial da COGER/DRE."
+          ],
+          "responsible": "Equipe Psicossocial",
+          "notes": [
+            "Se a escola não possuir equipe psicossocial, a equipe gestora deverá conduzir os atendimentos e encaminhamentos indicados no documento (itens 3, 4, 5, 6 e 7)."
+          ]
+        },
+        {
+          "title": "Medidas disciplinares",
+          "description": "Se a denúncia for evidenciada, a instituição deve adotar medidas disciplinares apropriadas, observando o princípio da legalidade.",
+          "how": [
+            "Comunicar formalmente os responsáveis do estudante.",
+            "Aplicar sanções disciplinares conforme o Regimento Escolar.",
+            "Observar que as sanções não podem afrontar o direito do aluno ao acesso e à permanência na escola, conforme as referências legais citadas no documento.",
+            "Verificar a situação específica no Regimento Interno da unidade."
+          ],
+          "responsible": "Equipe Gestora",
+          "notes": [
+            "As sanções e o procedimento devem estar previstos no Regimento Escolar e ser compatíveis com o ordenamento jurídico."
+          ]
+        },
+        {
+          "title": "Acompanhamento",
+          "description": "Acompanhar periodicamente o caso e realizar ajustes conforme a necessidade.",
+          "how": [
+            "Realizar acompanhamento regular do estudante para monitorar progresso e necessidades.",
+            "Avaliar a necessidade de intervenção adicional ou encaminhamentos.",
+            "Articular com a Rede de Proteção Social o retorno dos encaminhamentos realizados."
+          ],
+          "responsible": "Rede de Proteção Social, Equipe Psicossocial Pedagógica e Gestão Escolar",
+          "notes": []
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "title": "Considerações finais",
+    "content": [
+      "O programa Potencializando Relações Saudáveis visa melhorar a qualidade de vida da comunidade escolar e reduzir ocorrências de assédio dentro e fora do ambiente escolar.",
+      "A proposta busca fortalecer o trabalho conjunto na identificação de problemas, prioridades e no desenvolvimento de atividades educativas de promoção da saúde, segurança, boa convivência e relações saudáveis.",
+      "O documento destaca a importância de relações construídas com respeito, confiança e colaboração, assim como a parceria com comunidades e famílias para acolher e proteger crianças e jovens."
+    ],
+    "sourcePages": "13"
+  },
+  "legalReferences": [
+    "Constituição da República Federativa do Brasil de 1988 — art. 206, inciso I.",
+    "Lei Complementar estadual nº 04, de 15 de outubro de 1990 — Estatuto dos Servidores Públicos estaduais.",
+    "Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente.",
+    "Lei nº 9.394, de 20 de dezembro de 1996 — Lei de Diretrizes e Bases da Educação Nacional.",
+    "Lei estadual nº 11.882, de 1º de setembro de 2022 — prevenção e punição do assédio moral no âmbito dos Poderes do Estado de Mato Grosso.",
+    "Lei Complementar estadual nº 207, de 29 de dezembro de 2004 — Código Disciplinar do Servidor Público Civil do Poder Executivo do Estado de Mato Grosso.",
+    "Lei federal nº 14.540, de 3 de abril de 2023 — Programa de Prevenção e Enfrentamento ao Assédio Sexual e demais Crimes contra a Dignidade Sexual e à Violência Sexual."
+  ],
+  "editorialNotes": [
+    "Conteúdo organizado a partir da publicação Protocolos para Relações Saudáveis, SEDUC/MT, edição 2024.",
+    "A publicação apresenta quatro protocolos principais e desdobramentos específicos para estudante/servidor, totalizando seis quadros de fluxo neste aplicativo.",
+    "O documento não apresenta uma seção específica com exemplos intitulada “O que não é assédio sexual?”. O módulo informa expressamente essa ausência e não inventa exemplos.",
+    "Algumas grafias e siglas do documento foram preservadas como aparecem no material, inclusive quando parecem inconsistentes, para não alterar silenciosamente a fonte."
+  ]
+}

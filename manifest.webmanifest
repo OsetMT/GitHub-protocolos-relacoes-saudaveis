@@ -1,0 +1,21 @@
+{
+  "name": "Protocolos para Relações Saudáveis",
+  "short_name": "Relações Saudáveis",
+  "description": "Protocolos para relações saudáveis — Escola Promotora de Saúde / SEDUC-MT.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e9fbfa",
+  "theme_color": "#087e83",
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
