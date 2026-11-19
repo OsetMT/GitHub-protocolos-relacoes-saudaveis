@@ -85,7 +85,7 @@ function renderPresentation(index) {
       <div class="reader-actions">
         <button class="btn secondary" onclick="renderHome()">⌂ Menu inicial</button>
         <button class="btn secondary" ${index === 0 ? 'disabled' : ''} onclick="openPresentation(${index - 1})">← Voltar</button>
-        <button class="btn primary" onclick="${index === total - 1 ? `openProtocol('${DATA.protocols[0].id}',0)` : `openPresentation(${index + 1})`}">${index === total - 1 ? 'Ir aos protocolos →' : 'Avançar →'}</button>
+        <button class="btn primary" onclick="${index === total - 1 ? 'renderHome()' : `openPresentation(${index + 1})`}">${index === total - 1 ? 'Concluir apresentação ✓' : 'Avançar →'}</button>
       </div>
     </section>`;
   updateHeader();
@@ -135,15 +135,13 @@ function renderStep() {
 }
 
 function nextProtocolAction(id) {
-  const index = DATA.protocols.findIndex((protocol) => protocol.id === id);
-  return index < DATA.protocols.length - 1
-    ? `openProtocol('${DATA.protocols[index + 1].id}', 0)`
-    : 'renderHome()';
+  // Ao concluir qualquer protocolo, retornar sempre ao menu principal.
+  return 'renderHome()';
 }
 
 function openClosing() {
   current = { type: 'closing', id: 'closing', index: 0 };
-  $('#main').innerHTML = `<section class="reader-wrap"><div class="reader-kicker"><span>ENCERRAMENTO</span></div><article class="reader-card"><span class="pill">Considerações finais</span><h1>${esc(DATA.closing.title)}</h1><div class="content-block">${DATA.closing.content.map((paragraph) => `<p>${esc(paragraph)}</p>`).join('')}</div><div class="source-note">Fonte: página ${esc(DATA.closing.sourcePages)} do documento.</div></article><div class="reader-actions"><button class="btn secondary" onclick="renderHome()">⌂ Menu inicial</button></div></section>`;
+  $('#main').innerHTML = `<section class="reader-wrap"><div class="reader-kicker"><span>ENCERRAMENTO</span></div><article class="reader-card"><span class="pill">Considerações finais</span><h1>${esc(DATA.closing.title)}</h1><div class="content-block">${DATA.closing.content.map((paragraph) => `<p>${esc(paragraph)}</p>`).join('')}</div><div class="source-note">Fonte: página ${esc(DATA.closing.sourcePages)} do documento.</div></article><div class="reader-actions"><button class="btn primary" onclick="renderHome()">Concluir e voltar ao menu ✓</button></div></section>`;
   updateHeader();
 }
 
